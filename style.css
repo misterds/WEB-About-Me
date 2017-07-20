@@ -1,0 +1,90 @@
+
+.bagroundHome{
+	background: url(imge/bgh.png);
+    background-size: cover; 
+    background-attachment: fixed;  
+    background-position: center;   
+    font-family: 'Lato', sans-serif;
+    color: #eeeeed;
+    background: f
+}
+html{
+    height: 100%;
+}
+
+
+
+
+h1{
+     font-weight: 700;
+    font-size: 5em;
+}
+
+.webtitle{
+    font-weight: 700;
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+.content{
+	margin:20% auto;
+	text-align: center;
+     text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                  0px 8px 13px rgba(0,0,0,0.1),
+                  0px 18px 23px  rgba(0,0,0,0.1) ;   
+}
+hr{
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+
+/* button to get in */
+.btn-primary-outline
+{
+  background-color: transparent;
+  border:1px solid #ccc;
+    
+}
+
+.btn-danger:hover{
+    background: #8e2424;
+      border:1px solid #ccc;
+}
+.btn-danger:active{
+    background: #8e2424;
+}
+
+
+/*end  button to get in  */
+.socialIcons{    
+    margin-top: 30px;
+  
+}
+
+div.col-xs-6.col-md-3.socialIconsSize{
+    background: #8e2424;
+    border: 10x solid red;
+    min-width: 15%
+   
+}
+.socialIcons{
+    margin-top:4%;
+     
+}
+
+
+a .fa{
+  color: #e4e4e4;
+  text-decoration: none;}
+
+a .fa:hover{
+    color: #8e2424;
+  text-decoration: none
+}
+a .fa:active{
+      color: #8e2424;
+  text-decoration: none
+   
+}
